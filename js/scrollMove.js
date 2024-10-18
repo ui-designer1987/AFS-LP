@@ -1,0 +1,1 @@
+function scrollMove(t,l,c){var c=c||1,h=$(t).children(),n=0;h.each(function(){n+=$(this).width()}),$(t).html($(t).html()+$(t).html());var i=$(t),o=0;setInterval(function t(){o>n?o=0:o+=c,i.scrollLeft(o)},1e3/l)}
