@@ -797,6 +797,9 @@ line-height: 32px;
 	padding-bottom: 90px
 }
 
+.collaborators-section img{ margin:5px; height:100%;
+}
+
 
 footer {height:100%;}
 .footer-block{justify-content: space-between; align-items: center; position: relative; padding: 15px 0; position: static; max-width: 1200px;
